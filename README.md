@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <img src="https://img.shields.io/badge/Puertollano-Spain-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=RoockDev&label=Profile%20views&color=1F4E79&style=for-the-badge" alt="Profile views" />
+
 
 </div>
 

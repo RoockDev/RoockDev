@@ -1,70 +1,178 @@
-# 👋 Hi, I'm RoockDev
+<!-- ====================================================== -->
+<!--           SERGIO ZARCERO · GITHUB README              -->
+<!-- ====================================================== -->
 
-💻 I'm a **Web Applications Development (DAW)** student currently in my second year.
-I’m passionate about learning how things work behind the scenes and building projects that improve my skills step by step.
+<div align="center">
 
----
+<!-- Animated typing header -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=2E75B6&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Sergio+Zarcero;Junior+Full+Stack+Developer;Backend+%2F+Frontend+%2F+AI;Exploring+Agentic+AI+Workflows" alt="Typing header" />
+</a>
 
-## 🧑‍🎓 About me
-- 🎓 **Current Status:** Finishing **2º DAW** (Web Application Development).
-- 🔭 **Focus:** Developing **Full Stack** applications using **React** for frontend and **Laravel/Spring Boot/Node** for backend.
-- 🤝 **Teamwork:** Experienced in **Agile/Scrum** methodologies for team projects.
-- ⚙️ **DevOps:** Interested in deployment workflows using **Docker** and **GitHub Actions**.
-- 🚀 **Mindset:** Always curious about technology and eager to grow as a professional developer.
+<br/>
 
----
+<!-- Contact badges -->
+<a href="https://www.linkedin.com/in/sergio-zarcero">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:zar0_31@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://img.shields.io/badge/Puertollano-Spain-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=RoockDev&label=Profile%20views&color=1F4E79&style=for-the-badge" alt="Profile views" />
 
-## 🔧 Technologies & Tools
+</div>
 
-Here are the tools, languages, and frameworks I have worked with in my academic and personal projects:
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & ORMs
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Eloquent](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
 
 ---
 
-## 📈 Goals
-At this stage of my learning path, my focus is shifting from "learning syntax" to **"building professional software"**:
+## 🧑‍💻 About me
 
-- 🏗️ **Architecture:** Apply **Clean Architecture** and **SOLID principles** to my backend projects.
-- ⚛️ **Advanced Frontend:** Deepen my knowledge in **React** (Hooks, Context API, and State Management).
-- 🧪 **Testing:** Improve my code reliability by implementing Unit and Integration Testing.
-- 💼 **Career:** Secure a challenging internship or junior role to apply my Full Stack skills in a real-world environment.
+🎯 **Junior Full Stack Developer** based in Puertollano, Spain — open to new opportunities.
+
+🛠️ Currently focused on building **full stack apps end-to-end**.
+
+🤖 Going deep into **Agentic AI workflows** — Claude Code, Cursor, MCP — and learning how to ship software with AI as a real co-pilot, not a copy-paste tool.
+
+📐 Studying **Clean Architecture**, **SOLID principles**, and proper **testing discipline**.
+
+🌱 Coming from a non-tech background that taught me one thing: **precision matters**. Curious by default. Ships > talks.
+
+<br/>
 
 ---
 
-## 🤘 Let's connect
-I'm still a student, but I’m motivated to keep growing. Feel free to check out my repositories and follow my journey!
+## 🚀 What I'm up to
 
-📫 You can reach me here on GitHub.
+- 🔭 Building full stack side projects with **React, NestJS, Laravel, and Spring Boot**
+- 🤖 Experimenting with **Claude Code**, **Cursor**, and **MCP** to automate my dev workflow
+- 📚 Diving into **Clean Architecture**, **SOLID**, and **testing** (unit & integration)
+- 🌱 Looking for my **first dev role** in a team that values craft, ownership, and curiosity
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,kotlin,php,python,js,ts,html,css" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,laravel,django" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap,nextjs" />
+
+### Databases & ORM
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,sequelize" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,linux,bash,postman" />
+
+### AI & Agentic Workflows
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-1F4E79?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  
+</p>
+
+</div>
+
+<br/>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 Proyecto Proclade</h3>
+      <p><em>Full stack platform for Fundación PROCLADE — outreach, collaboration and content management with auth, admin panel, and an informational chatbot.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://github.com/RoockDev/proyecto-proclade">
+        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐺 Desafío Lupis Insani</h3>
+      <p><em>Web game inspired by Hombres Lobo de Castronegro — multiplayer logic, real-time processing, fully dockerized for dev and deploy.</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white" />
+      </p>
+      <a href="https://github.com/GsuDev/Desafio-Lupis-Insani">
+        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoockDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoockDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoockDev&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RoockDev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Goals
+
+> 🚀 Land my **first dev role** in a team that ships and learns fast
+>
+> 🤖 Build & deploy real projects using **agentic AI workflows**
+>
+> 📐 Master **Clean Architecture** and proper **testing** discipline
+>
+> 🌍 Contribute to **open source** — even small PRs count
+
+<br/>
+
+---
+
+<div align="center">
+
+### 📫 Let's connect
+
+If something here caught your eye, my DMs are open.
+
+<a href="https://www.linkedin.com/in/sergio-zarcero">
+  <img src="https://img.shields.io/badge/Reach_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zar0_31@outlook.com">
+  <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>

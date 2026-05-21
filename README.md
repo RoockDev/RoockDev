@@ -18,7 +18,7 @@
 <a href="mailto:zar0_31@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<img src="https://img.shields.io/badge/Puertollano-Spain-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Madrid-Spain-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 
 </div>

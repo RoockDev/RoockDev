@@ -6,20 +6,22 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=2E75B6&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Sergio+Zarcero;Junior+Full+Stack+Developer;Backend+%2F+Frontend+%2F+AI;Exploring+Agentic+AI+Workflows" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=800&color=00A8FF&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Sergio+Zarcero;Backend+Developer+%7C+Java+%C2%B7+Spring+Boot;Freelance+%C2%B7+APIs+%C2%B7+Databases;Exploring+Agentic+AI+Workflows" alt="Typing header" />
 </a>
 
 <br/>
 
 <!-- Contact badges -->
+<a href="https://sergiozarcero.dev">
+  <img src="https://img.shields.io/badge/Portfolio-00A8FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/sergio-zarcero">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:zar0_31@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=00A8FF" alt="Email" />
 </a>
-<img src="https://img.shields.io/badge/Madrid-Spain-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-
+<img src="https://img.shields.io/badge/Madrid-Spain-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00A8FF" alt="Location" />
 
 </div>
 
@@ -27,28 +29,16 @@
 
 ---
 
-## 🧑‍💻 About me
+## 👨‍💻 About me
 
-🎯 **Junior Full Stack Developer** based in Puertollano, Spain — open to new opportunities.
+**Backend Developer** specializing in **Java & Spring Boot**, working as a freelance developer with over a year of experience building real projects.
 
-🛠️ Currently focused on building **full stack apps end-to-end**.
+- 🧩 I build backends end-to-end — from **REST API design** and **data modeling** to deployment.
+- 🏢 Experience at **Minsait**, working on a large-scale corporate document management system in Java.
+- 🤖 Exploring **agentic AI workflows** (LLMs, Spec-Driven Development) as a real part of my process, not just a copy-paste tool.
+- 🌍 Native Spanish · Advanced English — open to **national and international** projects.
 
-🤖 Going deep into **Agentic AI workflows** — Claude Code, Cursor, MCP — and learning how to ship software with AI as a real co-pilot, not a copy-paste tool.
-
-📐 Studying **Clean Architecture**, **SOLID principles**, and proper **testing discipline**.
-
-🌱 Coming from a non-tech background that taught me one thing: **precision matters**. Curious by default. Ships > talks.
-
-<br/>
-
----
-
-## 🚀 What I'm up to
-
-- 🔭 Building full stack side projects with **React, NestJS, Laravel, and Spring Boot**
-- 🤖 Experimenting with **Claude Code**, **Cursor**, and **MCP** to automate my dev workflow
-- 📚 Diving into **Clean Architecture**, **SOLID**, and **testing** (unit & integration)
-- 🌱 Looking for my **first dev role** in a team that values craft, ownership, and curiosity
+> Coming from a non-tech background that taught me one thing: **precision matters.** Ships > talks.
 
 <br/>
 
@@ -58,28 +48,22 @@
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,kotlin,php,python,js,ts,html,css" />
-
 ### Backend
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,laravel,django" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nestjs,nodejs" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
 
 ### Databases & ORM
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,sequelize" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,redis" />
 
 ### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,linux,bash,postman" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,linux,postman" />
 
 ### AI & Agentic Workflows
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-1F4E79?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Spec--Driven_Dev_(SDD)-0d1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-00A8FF?style=for-the-badge&logoColor=white" />
 </p>
 
 </div>
@@ -94,30 +78,30 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌍 Proyecto Proclade</h3>
-      <p><em>Full stack platform for Fundación PROCLADE — outreach, collaboration and content management with auth, admin panel, and an informational chatbot.</em></p>
+      <p><em>Full-stack platform for Fundación PROCLADE — outreach and content management with authentication, an admin panel, and an informational chatbot. Led a team of 3 as the technical point of contact with the client.</em></p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/RoockDev/proyecto-proclade">
-        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/View_Repo-00A8FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🐺 Desafío Lupis Insani</h3>
-      <p><em>Web game inspired by Hombres Lobo de Castronegro — multiplayer logic, real-time processing, fully dockerized for dev and deploy.</em></p>
+      <p><em>Real-time multiplayer web game inspired by Hombres Lobo de Castronegro — six-service architecture orchestrated in Docker, with async processing via queues and workers.</em></p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white" />
       </p>
-      <a href="https://github.com/GsuDev/Desafio-Lupis-Insani">
-        <img src="https://img.shields.io/badge/View_Repo-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/RoockDev/Desafio-Lupis-Insani">
+        <img src="https://img.shields.io/badge/View_Repo-00A8FF?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -131,16 +115,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoockDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoockDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoockDev&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RoockDev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RoockDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoockDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -148,15 +124,13 @@
 
 ---
 
-## 🎯 Goals
+## 🎯 What I'm working towards
 
-> 🚀 Land my **first dev role** in a team that ships and learns fast
+> 🧱 Writing cleaner backends — **Clean Architecture**, **SOLID**, and solid **testing** discipline
 >
-> 🤖 Build & deploy real projects using **agentic AI workflows**
+> 🤖 Shipping real projects with **agentic AI workflows** as part of my toolkit
 >
-> 📐 Master **Clean Architecture** and proper **testing** discipline
->
-> 🌍 Contribute to **open source** — even small PRs count
+> 🌍 Growing on ambitious teams, on both **national and international** projects
 
 <br/>
 
@@ -166,13 +140,17 @@
 
 ### 📫 Let's connect
 
-If something here caught your eye, my DMs are open.
+If something here caught your eye, feel free to reach out.
 
+<a href="https://sergiozarcero.dev">
+  <img src="https://img.shields.io/badge/sergiozarcero.dev-00A8FF?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/sergio-zarcero">
-  <img src="https://img.shields.io/badge/Reach_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:zar0_31@outlook.com">
-  <img src="https://img.shields.io/badge/Send_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=00A8FF" />
 </a>
 
 </div>
+
